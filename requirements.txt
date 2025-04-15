@@ -6,3 +6,4 @@ seaborn
 scikit-learn
 scikit-surprise
 gensim
+scipy>=1.10.1
